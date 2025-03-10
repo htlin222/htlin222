@@ -8,7 +8,7 @@ A Physician and Lizard 🦎
 
 * 🌍  I'm based in Taipei, Taiwan
 * 🖥️  See my portfolio at [Lizard Garden](http://physician.tw)
-* ✉️  You can contact me at [1izard@duck.com](mailto:1izard@duck.com)
+* ✉️  You can contact me at [htl@physician.tw](mailto:htl@physician.tw)
 * 🧠  I'm learning oncology 🦀 and hematology 🩸
 
 <a href="https://www.twitter.com/htlin222" target="_blank" rel="noreferrer"><img
