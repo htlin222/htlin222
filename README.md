@@ -1,6 +1,8 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Hsieh-Ting Lin
 ======================================================================================================================================
 
+Hi, I'm Hsieh-Ting Lin, a fellowship trainee in oncology and hematology based in Taipei, Taiwan. I have a strong passion for frontend development, open-source projects, and medical technology. My work spans across clinical research, software development, and knowledge sharing. In my free time, I enjoy building interactive applications, exploring new technologies, and contributing to open-source communities.
+
 A Physician and Lizard 🦎
 -------------------------
 
