@@ -31,11 +31,13 @@ I build tools at the intersection of medicine, biostatistics, and software. When
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 ![Bash](https://img.shields.io/badge/-Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
 
-## GitHub Stats
+## GitHub Activity
+
+![htlin222's GitHub stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=htlin222&theme=default)
 
 <p>
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=htlin222&show_icons=true&theme=default&hide_border=true&count_private=true" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=htlin222&layout=compact&hide_border=true&langs_count=8" />
+  <img height="160" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=htlin222&theme=default" />
+  <img height="160" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=htlin222&theme=default&utcOffset=8" />
 </p>
 
 ---
