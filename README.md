@@ -31,15 +31,6 @@ I build tools at the intersection of medicine, biostatistics, and software. When
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 ![Bash](https://img.shields.io/badge/-Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
 
-## GitHub Activity
-
-![htlin222's GitHub stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=htlin222&theme=default)
-
-<p>
-  <img height="160" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=htlin222&theme=default" />
-  <img height="160" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=htlin222&theme=default&utcOffset=8" />
-</p>
-
 ---
 
 <a href="https://www.buymeacoffee.com/htl.lizard"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="150" /></a>
