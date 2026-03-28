@@ -1,33 +1,43 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Hsieh-Ting Lin
-======================================================================================================================================
+# Hey, I'm Hsieh-Ting Lin 🦎
 
-Hi, I'm Hsieh-Ting Lin, a fellowship trainee in oncology and hematology based in Taipei, Taiwan. I have a strong passion for frontend development, open-source projects, and medical technology. My work spans across clinical research, software development, and knowledge sharing. In my free time, I enjoy building interactive applications, exploring new technologies, and contributing to open-source communities.
+**Physician-coder** | Oncology & Hematology Fellow | Taipei, Taiwan
 
-A Physician and Lizard 🦎
--------------------------
+I build tools at the intersection of medicine, biostatistics, and software. When I'm not in the clinic, I'm writing code to make research and clinical workflows faster.
 
-* 🌍  I'm based in Taipei, Taiwan
-* 🖥️  See my portfolio at [Lizard Garden](http://physician.tw)
-* ✉️  You can contact me at [htl@physician.tw](mailto:htl@physician.tw)
-* 🧠  I'm learning oncology 🦀 and hematology 🩸
+[![Blog](https://img.shields.io/badge/Blog-the--terminal--way-0891b2?style=flat-square&logo=netlify&logoColor=white)](https://the-terminal-way.netlify.app/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-physician.tw-0891b2?style=flat-square&logo=google-chrome&logoColor=white)](http://physician.tw)
+[![Twitter](https://img.shields.io/twitter/follow/htlin222?style=flat-square&logo=x&logoColor=white&color=1c1917)](https://www.twitter.com/htlin222)
+[![Email](https://img.shields.io/badge/Email-htl%40physician.tw-1c1917?style=flat-square&logo=gmail&logoColor=white)](mailto:htl@physician.tw)
 
-<a href="https://www.twitter.com/htlin222" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/twitter/follow/htlin222?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
-/></a>
+## Featured Projects
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.chartjs.org" target="_blank" rel="noreferrer"> <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://gohugo.io/" target="_blank" rel="noreferrer"> <img src="https://api.iconify.design/logos-hugo.svg" alt="hugo" width="40" height="40"/> </a> <a href="https://ifttt.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/ifttt/ifttt-ar21.svg" alt="ifttt" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <br><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> 
+| Project | Description |
+|---------|-------------|
+| [dotfiles](https://github.com/htlin222/dotfiles) | macOS dotfiles -- Neovim, Zsh, Tmux, and more |
+| [mini-claw](https://github.com/htlin222/mini-claw) | AI assistant for clinical and research workflows |
+| [meta-pipe](https://github.com/htlin222/meta-pipe) | End-to-end meta-analysis pipeline in R |
+| [lizard-gslide-module](https://github.com/htlin222/lizard-gslide-module) | Automate Google Slides from structured data |
+| [claude-telegram-bot](https://github.com/htlin222/claude-telegram-bot) | Telegram bot powered by Claude |
+| [learn-r-with-ai](https://github.com/htlin222/learn-r-with-ai) | Interactive R programming tutorial |
 
-### Socials
+## Tech Stack
 
-<table style="background-color: #f4f4f4; border-radius: 10px; padding: 10px;">
-  <tr>
-    <td>
-<p align="left"> <a href="https://www.dev.to/htlin" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/devdotto.svg" width="32" height="32" /></a> <a href="https://discord.com/users/HT🦎Lin#8205" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a> <a href="https://www.facebook.com/htlin222" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="32" height="32" /></a> <a href="https://www.github.com/htlin222" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/hsiehting-lin" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="http://www.medium.com/htlin222" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/htlin222" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a> <a href="https://www.youtube.com/c/@htlin.lizard" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube.svg" width="32" height="32" /></a></p>
-    </td>
-  </tr>
-</table>
+![R](https://img.shields.io/badge/-R-276DC3?style=flat-square&logo=r&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat-square&logo=go&logoColor=white)
+![Neovim](https://img.shields.io/badge/-Neovim-57A143?style=flat-square&logo=neovim&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Bash](https://img.shields.io/badge/-Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
 
-### Support Me
+## GitHub Stats
 
-<a href="https://www.buymeacoffee.com/htl.lizard"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
+<p>
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=htlin222&show_icons=true&theme=default&hide_border=true&count_private=true" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=htlin222&layout=compact&hide_border=true&langs_count=8" />
+</p>
+
+---
+
+<a href="https://www.buymeacoffee.com/htl.lizard"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="150" /></a>
