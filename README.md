@@ -2,6 +2,8 @@
 
 **Physician-coder** | Oncology & Hematology Fellow | Taipei, Taiwan
 
+[![committers.top badge](https://user-badge.committers.top/taiwan/htlin222.svg)](https://user-badge.committers.top/taiwan/htlin222)
+
 I build tools at the intersection of medicine, biostatistics, and software. When I'm not in the clinic, I'm writing code to make research and clinical workflows faster.
 
 [![Blog](https://img.shields.io/badge/Blog-the--terminal--way-0891b2?style=flat-square&logo=netlify&logoColor=white)](https://the-terminal-way.netlify.app/)
