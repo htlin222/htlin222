@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/htlin222-htlin222-badge.png)](https://mseep.ai/app/htlin222-htlin222)
+
 # Hsieh-Ting Lin (林協霆) 🦎
 
 **Oncologist & Hematology fellow in Taipei, Taiwan — building open-source tools at the intersection of medicine, evidence-based research, and AI.**
