@@ -1,6 +1,6 @@
 # Hsieh-Ting Lin (林協霆) 🦎
 
-**Attending physician in hematology & medical oncology, Koo Foundation Sun Yat-Sen Cancer Center, Taipei — building open-source tools at the intersection of medicine, evidence-based research, and AI.**
+**Attending physician in medical oncology, Koo Foundation Sun Yat-Sen Cancer Center, Taipei — building open-source tools at the intersection of medicine, evidence-based research, and AI.**
 
 Keywords: oncology · hematology · evidence-based medicine · clinical informatics · systematic review & meta-analysis · Claude Code · MCP servers · LLM tooling · R · TypeScript · Python · biostatistics.
 
