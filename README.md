@@ -1,25 +1,29 @@
 # Hsieh-Ting Lin (林協霆) 🦎
 
-**Oncologist & Hematology fellow in Taipei, Taiwan — building open-source tools at the intersection of medicine, evidence-based research, and AI.**
+**Attending physician in hematology & medical oncology, Koo Foundation Sun Yat-Sen Cancer Center, Taipei — building open-source tools at the intersection of medicine, evidence-based research, and AI.**
 
 Keywords: oncology · hematology · evidence-based medicine · clinical informatics · systematic review & meta-analysis · Claude Code · MCP servers · LLM tooling · R · TypeScript · Python · biostatistics.
 
-[![Website](https://img.shields.io/badge/Website-htl.physician.tw-0891b2?style=flat-square&logo=google-chrome&logoColor=white)](https://htl.physician.tw/)
-[![Blog](https://img.shields.io/badge/Blog-the--terminal--way-0891b2?style=flat-square&logo=netlify&logoColor=white)](https://the-terminal-way.netlify.app/)
+[![Website](https://img.shields.io/badge/Website-lin.hsiehting.com-0891b2?style=flat-square&logo=astro&logoColor=white)](https://lin.hsiehting.com/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-open--source-0891b2?style=flat-square&logo=github&logoColor=white)](https://lin.hsiehting.com/portfolio/)
+[![CV](https://img.shields.io/badge/CV-zh--TW%20%2B%20EN-0891b2?style=flat-square&logo=readdotcv&logoColor=white)](https://lin.hsiehting.com/cv/)
+[![ORCID](https://img.shields.io/badge/ORCID-0009--0002--3974--4528-a6ce39?style=flat-square&logo=orcid&logoColor=white)](https://orcid.org/0009-0002-3974-4528)
 [![Twitter](https://img.shields.io/twitter/follow/htlin222?style=flat-square&logo=x&logoColor=white&color=1c1917)](https://www.twitter.com/htlin222)
-[![Email](https://img.shields.io/badge/Email-htl%40physician.tw-1c1917?style=flat-square&logo=gmail&logoColor=white)](mailto:htl@physician.tw)
+[![Email](https://img.shields.io/badge/Email-mail%40hsiehting.com-1c1917?style=flat-square&logo=gmail&logoColor=white)](mailto:mail@hsiehting.com)
 [![committers.top](https://user-badge.committers.top/taiwan/htlin222.svg)](https://user-badge.committers.top/taiwan/htlin222)
 
 ---
 
 ## What I build
 
-I'm a practicing physician who writes code to make clinical research and bedside workflows faster. My work clusters into four areas:
+I'm a practicing oncologist who writes code to make clinical research and bedside workflows faster. My work clusters into four areas:
 
 - **🩺 Medical & Clinical** — oncology/hematology decision support, treatment-trend surveillance, IRB paperwork automation, and Bayesian diagnostic reasoning.
 - **🤖 AI & MCP tooling** — Claude Code skills, Model Context Protocol (MCP) servers, and LLM-powered agents that plug evidence-based medicine into the terminal.
-- **📚 Education & Anki** — teaching R and biostatistics for clinical research, nursing evidence-based practice, and Traditional Chinese language analysis.
-- **🛠️ Developer tools** — dotfiles, terminal automation, and Google Workspace scripting for research productivity.
+- **📚 Education & writing** — teaching R and biostatistics for clinical research, nursing evidence-based practice, and Traditional Chinese writing/typesetting tools.
+- **🛠️ Developer tools** — dotfiles, terminal automation, macOS utilities, and Google Workspace scripting for research productivity.
+
+A live, categorised index of every public repo (with stars, languages, and README excerpts) lives at **[lin.hsiehting.com/portfolio](https://lin.hsiehting.com/portfolio/)** — refreshed daily by a GitHub Action.
 
 ## Featured projects
 
@@ -29,12 +33,15 @@ I'm a practicing physician who writes code to make clinical research and bedside
 | [mini-claw](https://github.com/htlin222/mini-claw) | Telegram bot for persistent multi-turn Claude/ChatGPT sessions — file attachments, shell access, zero-cost local storage. |
 | [dotfiles](https://github.com/htlin222/dotfiles) | macOS dotfiles for Neovim, Zsh, tmux, and Hammerspoon — terminal automation and developer productivity. |
 | [openevidence-mcp](https://github.com/htlin222/openevidence-mcp) | Unofficial OpenEvidence MCP server — query OpenEvidence from Claude Code/Codex via your logged-in browser, with BibTeX + Crossref citations. |
+| [oe-extension](https://github.com/htlin222/oe-extension) | Chrome extension with LLM integration for clinicians to query OpenEvidence straight from the chart or the paper they're reading. |
 | [robust-lit-review](https://github.com/htlin222/robust-lit-review) | Automated systematic literature review producing publication-ready manuscripts with PRISMA compliance and GRADE evidence synthesis. |
-| [lizard-gslide-module](https://github.com/htlin222/lizard-gslide-module) | Google Apps Script toolkit for automating Google Slides formatting, batch styling, badges, and themes. |
 | [irb-in-hurry](https://github.com/htlin222/irb-in-hurry) | Automated IRB document preparation — 43 forms, 11 categories, one command. |
 | [breast-cancer-uptodate](https://github.com/htlin222/breast-cancer-uptodate) | Automated oncology treatment-trend reporter for breast cancer & hematologic malignancies (ESMO, OncLive, OpenEvidence). |
 | [cps-skills](https://github.com/htlin222/cps-skills) | Claude Code skill for multi-persona Bayesian diagnostic reasoning in the NEJM Clinical Problem-Solving format. |
+| [zh-ebn-report-skill](https://github.com/htlin222/zh-ebn-report-skill) | Claude Code skill for evidence-based nursing reports (EBP 5A pipeline), written for Taiwan's nursing ladder requirements. |
 | [learn-r-with-ai](https://github.com/htlin222/learn-r-with-ai) | Interactive Quarto tutorial: learn R statistics for clinical research with AI assistance, from zero to publication-ready biostatistics. |
+| [lizard-gslide-module](https://github.com/htlin222/lizard-gslide-module) | Google Apps Script toolkit for automating Google Slides formatting, batch styling, badges, and themes. |
+| [lin-hsiehting](https://github.com/htlin222/lin-hsiehting) | Source of [lin.hsiehting.com](https://lin.hsiehting.com/) — Astro + MDX clinical-notes site with regulatory linting, DOI minting, and schema.org medical markup. |
 
 ## Tech stack
 
@@ -49,6 +56,6 @@ I'm a practicing physician who writes code to make clinical research and bedside
 
 ---
 
-📍 Taipei, Taiwan · 🌐 [htl.physician.tw](https://htl.physician.tw/) · ✉️ [htl@physician.tw](mailto:htl@physician.tw)
+📍 Taipei, Taiwan · 🌐 [lin.hsiehting.com](https://lin.hsiehting.com/) · ✉️ [mail@hsiehting.com](mailto:mail@hsiehting.com)
 
 <a href="https://www.buymeacoffee.com/htl.lizard"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="150" /></a>
