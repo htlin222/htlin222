@@ -11,6 +11,7 @@ Keywords: oncology · hematology · evidence-based medicine · clinical informat
 [![Twitter](https://img.shields.io/twitter/follow/htlin222?style=flat-square&logo=x&logoColor=white&color=1c1917)](https://www.twitter.com/htlin222)
 [![Email](https://img.shields.io/badge/Email-mail%40hsiehting.com-1c1917?style=flat-square&logo=gmail&logoColor=white)](mailto:mail@hsiehting.com)
 [![committers.top](https://user-badge.committers.top/taiwan/htlin222.svg)](https://user-badge.committers.top/taiwan/htlin222)
+[![committers.top (private)](https://user-badge.committers.top/taiwan_private/htlin222.svg)](https://committers.top/taiwan_private)
 
 ---
 
