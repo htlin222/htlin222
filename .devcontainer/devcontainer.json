@@ -2,7 +2,6 @@
   "name": "htlin222",
   "image": "mcr.microsoft.com/devcontainers/base:ubuntu-24.04",
   "features": {
-    
     "ghcr.io/devcontainers/features/github-cli:1": {}
   },
   "onCreateCommand": "curl -fsSL https://raw.githubusercontent.com/htlin222/dotfiles/main/start/codespace_prewarm.sh | bash",
