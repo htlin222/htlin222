@@ -43,6 +43,22 @@ A live, categorised index of every public repo (with stars, languages, and READM
 | [lizard-gslide-module](https://github.com/htlin222/lizard-gslide-module) | Google Apps Script toolkit for automating Google Slides formatting, batch styling, badges, and themes. |
 | [lin-hsiehting](https://github.com/htlin222/lin-hsiehting) | Source of [lin.hsiehting.com](https://lin.hsiehting.com/) — Astro + MDX clinical-notes site with regulatory linting, DOI minting, and schema.org medical markup. |
 
+## Open in Codespaces
+
+[![Open in GitHub Codespaces](https://github.com/codespaces/badge.svg)](https://codespaces.new/htlin222/htlin222?quickstart=1)
+
+One click gives you a ready-to-work container — Ubuntu 24.04, GitHub CLI, the
+[Claude Code](https://claude.ai/code) extension, and my
+[dotfiles](https://github.com/htlin222/dotfiles) prewarmed. Nothing to install locally.
+
+```
+https://codespaces.new/htlin222/htlin222?quickstart=1
+```
+
+`?quickstart=1` opens it straight in the browser build of VS Code, and offers to resume an
+existing codespace instead of creating a new one every time. Environment definition lives in
+[`.devcontainer/devcontainer.json`](.devcontainer/devcontainer.json).
+
 ## Tech stack
 
 ![R](https://img.shields.io/badge/-R-276DC3?style=flat-square&logo=r&logoColor=white)
